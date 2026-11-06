@@ -1,0 +1,36 @@
+MSD VIDRAÇARIA E ESQUADRIA - SITE ONE PAGE EM HTML
+==================================================
+
+COMO PUBLICAR
+1. Abra index.html para visualizar o site.
+2. Envie index.html e a pasta assets/ para a raiz da hospedagem / GitHub Pages / Cloudflare Pages.
+3. O projeto utiliza apenas HTML, CSS e JavaScript; não requer PHP ou banco de dados.
+
+RECURSOS IMPLEMENTADOS
+- Layout responsivo (desktop, tablet e celular)
+- Menu mobile funcional
+- Hero com imagem e botões de orçamento
+- Cartões de serviços com links individuais de WhatsApp
+- Sobre a empresa e processo de atendimento
+- Galeria de imagens com ampliação, navegação e ESC
+- Depoimentos públicos e links de consulta
+- Google Maps incorporado
+- Formulário que compõe mensagem personalizada e abre WhatsApp
+- Botão flutuante de WhatsApp e rodapé
+- Logo horizontal transparente aplicada no topo e no rodapé
+
+INFORMAÇÕES DA MSD
+WhatsApp: +55 45 99832-7025
+Endereço: Rua Txikaos, 119, Santa Cruz, Cascavel/PR, 85806-030.
+
+OBSERVAÇÕES IMPORTANTES
+- As imagens de ambientes são ILUSTRATIVAS, criadas a partir do conceito visual. Não representam obras comprovadamente executadas pela MSD. É recomendável substituí-las por fotos reais autorizadas para uso comercial antes da publicação.
+- Para substituir fotos, mantenha os mesmos nomes em assets/imagens/ ou altere as referências no HTML/CSS.
+- A logo horizontal em alta resolução e fundo transparente está em assets/imagens/logo-msd-horizontal.png. Para substituí-la, utilize esse mesmo caminho.
+- O mapa incorporado depende de conexão com a internet.
+- As fontes Montserrat / DM Sans são carregadas do Google Fonts, com fallback para fontes locais.
+- O formulário não guarda dados nem envia e-mail; somente abre o WhatsApp do cliente.
+- O horário foi consultado em listagens públicas; confirme com a empresa antes de publicar.
+- Não foram adicionados Instagram ou Facebook por não haver links oficiais confirmados.
+
+Desenvolvimento de conceito e implementação HTML: Agência Neo Arte
